@@ -5,8 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"D:/Jacko/VerticleGJ/VerticalGJ/Content/Jacko/RoomGenLevel.umap",
 				"D:/Jacko/VerticleGJ/VerticalGJ/Content/Jacko/RoomGenLevel_BuiltData.uasset",
+=======
+				"D:/2201221/VerticleGJ/VerticalGJ/Content/Jamie/NoEyeLady_Level.umap",
+				"D:/2201221/VerticleGJ/VerticalGJ/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+>>>>>>> main
 				"D:/2300106/VerticalJam2024/VerticleGJ/VerticalGJ/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"D:/2300106/VerticalJam2024/VerticleGJ/VerticalGJ/Content/_GENERATED/2300106/Box_78F2CC24.uasset",
 				"D:/2300106/VerticalJam2024/VerticleGJ/VerticalGJ/Content/StarterContent/Maps/MainMap_HLOD0_Instancing.uasset",
