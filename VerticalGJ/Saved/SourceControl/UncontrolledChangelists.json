@@ -8,9 +8,12 @@
 				"D:/Jacko/VerticleGJ/VerticalGJ/Content/Jacko/RoomGenLevel.umap",
 				"D:/Jacko/VerticleGJ/VerticalGJ/Content/Jacko/Maps/RoomGenLevel_BuiltData.uasset",
 				"D:/Jacko/VerticleGJ/VerticalGJ/Content/Jacko/Maps/RoomGenLevel.umap",
-				"D:/Jacko/VerticleGJ/VerticalGJ/Content/Jacko/RoomGenLevel_BuiltData.uasset",
 				"D:/Jacko/VerticleGJ/VerticalGJ/Content/Jacko/RoomGenerationSytem/Bp_Room_Parent.uasset",
-				"D:/Jacko/VerticleGJ/VerticalGJ/Content/Jacko/RoomGenerationSytem/RoomGeneration.uasset"
+				"D:/Jacko/VerticleGJ/VerticalGJ/Content/Jacko/RoomGenerationSytem/RoomGeneration.uasset",
+				"D:/Jacko/VerticleGJ/VerticalGJ/Content/Jacko/RoomGenerationSytem/Bp_StartRoom.uasset",
+				"D:/Jacko/VerticleGJ/VerticalGJ/Content/Jacko/RoomGenerationSytem/Bp_EndRoom.uasset",
+				"D:/Jacko/VerticleGJ/VerticalGJ/Content/Jacko/RoomGenerationSytem/BP_EmptyRoom.uasset",
+				"D:/Jacko/VerticleGJ/VerticalGJ/Content/Jacko/RoomGenLevel_BuiltData.uasset"
 			]
 		}
 	]
