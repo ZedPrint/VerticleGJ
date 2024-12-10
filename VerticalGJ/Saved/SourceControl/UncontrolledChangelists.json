@@ -5,14 +5,19 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/2300106/verticaljam/VerticleGJ/VerticalGJ/Content/Meg/BP_MemoryDrop.uasset",
 				"D:/2300106/verticaljam/VerticleGJ/VerticalGJ/Content/Meg/MemoryDrops/BP_MemoryDrop.uasset",
 				"D:/2300106/verticaljam/VerticleGJ/VerticalGJ/Content/Meg/MemoryDrops/M_StatueGlass1.uasset",
-				"D:/2300106/verticaljam/VerticleGJ/VerticalGJ/Content/Meg/M_StatueGlass1.uasset",
 				"D:/2300106/verticaljam/VerticleGJ/VerticalGJ/Content/Meg/BathtubMan/BP_BathtubMan.uasset",
-				"D:/2300106/verticaljam/VerticleGJ/VerticalGJ/Content/FirstPerson/Blueprints/UMG_BathManBaseDialogue.uasset",
 				"D:/2300106/verticaljam/VerticleGJ/VerticalGJ/Content/Meg/BathtubManLevel.umap",
-				"D:/2300106/verticaljam/VerticleGJ/VerticalGJ/Content/FirstPerson/Blueprints/UMG_MemoryDialogue.uasset"
+				"D:/2300106/verticaljam/VerticleGJ/VerticalGJ/Content/Meg/MemoryDrops/UMG_MemoryTimer.uasset",
+				"D:/2300106/verticaljam/VerticleGJ/VerticalGJ/Content/Meg/UMG_BathManBaseDialogue.uasset",
+				"D:/2300106/verticaljam/VerticleGJ/VerticalGJ/Content/Meg/BathtubMan/UMG_BathManBaseDialogue.uasset",
+				"D:/2300106/verticaljam/VerticleGJ/VerticalGJ/Content/Meg/BathtubMan/UMG_BathtubLevel.uasset",
+				"D:/2300106/verticaljam/VerticleGJ/VerticalGJ/Content/FirstPerson/Blueprints/UMG_BathManBaseDialogue.uasset",
+				"D:/2300106/verticaljam/VerticleGJ/VerticalGJ/Content/FirstPerson/Blueprints/UMG_MemoryDialogue.uasset",
+				"D:/2300106/verticaljam/VerticleGJ/VerticalGJ/Content/Meg/UMG_MemoryDialogue.uasset",
+				"D:/2300106/verticaljam/VerticleGJ/VerticalGJ/Content/Meg/BP_MemoryDrop.uasset",
+				"D:/2300106/verticaljam/VerticleGJ/VerticalGJ/Content/Meg/M_StatueGlass1.uasset"
 			]
 		}
 	]
