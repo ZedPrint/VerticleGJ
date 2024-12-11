@@ -6,13 +6,20 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/Jacko/VerticleGJ/VerticalGJ/Content/Jacko/RoomGenLevel.umap",
-				"D:/Jacko/VerticleGJ/VerticalGJ/Content/Jacko/Maps/RoomGenLevel_BuiltData.uasset",
 				"D:/Jacko/VerticleGJ/VerticalGJ/Content/Jacko/Maps/RoomGenLevel.umap",
 				"D:/Jacko/VerticleGJ/VerticalGJ/Content/Jacko/RoomGenerationSytem/Bp_Room_Parent.uasset",
 				"D:/Jacko/VerticleGJ/VerticalGJ/Content/Jacko/RoomGenerationSytem/RoomGeneration.uasset",
 				"D:/Jacko/VerticleGJ/VerticalGJ/Content/Jacko/RoomGenerationSytem/Bp_StartRoom.uasset",
 				"D:/Jacko/VerticleGJ/VerticalGJ/Content/Jacko/RoomGenerationSytem/Bp_EndRoom.uasset",
 				"D:/Jacko/VerticleGJ/VerticalGJ/Content/Jacko/RoomGenerationSytem/BP_EmptyRoom.uasset",
+				"D:/Jacko/new/VerticleGJ/VerticalGJ/Content/Jacko/Mechanics/Bp_Collectable.uasset",
+				"D:/Jacko/new/VerticleGJ/VerticalGJ/Content/Jacko/Mechanics/Bp_CollectableManager.uasset",
+				"D:/Jacko/new/VerticleGJ/VerticalGJ/Content/Jacko/RoomGenerationSytem/Bp_EndRoom.uasset",
+				"D:/Jacko/new/VerticleGJ/VerticalGJ/Content/Jacko/Mechanics/BPI_PlayerInterface.uasset",
+				"D:/Jacko/new/VerticleGJ/VerticalGJ/Content/Jacko/Maps/RoomGenLevel.umap",
+				"D:/Jacko/new/VerticleGJ/VerticalGJ/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/Jacko/new/VerticleGJ/VerticalGJ/Content/Jacko/Mechanics/BPI/BPI_PlayerInterface.uasset",
+				"D:/Jacko/VerticleGJ/VerticalGJ/Content/Jacko/Maps/RoomGenLevel_BuiltData.uasset",
 				"D:/Jacko/VerticleGJ/VerticalGJ/Content/Jacko/RoomGenLevel_BuiltData.uasset"
 			]
 		}
