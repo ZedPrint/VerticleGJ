@@ -7,6 +7,7 @@
 			"files": [
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 				"D:/2300106/verticaljam/VerticleGJ/VerticalGJ/Content/Meg/MemoryDrops/BP_MemoryDrop.uasset",
 				"D:/2300106/verticaljam/VerticleGJ/VerticalGJ/Content/Meg/MemoryDrops/M_StatueGlass1.uasset",
 				"D:/2300106/verticaljam/VerticleGJ/VerticalGJ/Content/Meg/BathtubMan/BP_BathtubMan.uasset",
@@ -154,6 +155,13 @@
 				"D:/2300106/VerticalJam2024/VerticleGJ/VerticalGJ/Content/LevelBlockout.umap",
 				"D:/2300106/VerticalJam2024/VerticleGJ/VerticalGJ/Content/StarterContent/Maps/Level1.umap"
 >>>>>>> origin/JamieEyeLadyBranch
+=======
+				"D:/GitHubby/Verticle/VerticleGJ/VerticalGJ/Content/Jamie/BP_GOAL.uasset",
+				"D:/GitHubby/Verticle/VerticleGJ/VerticalGJ/Content/Jamie/M_EYEs.uasset",
+				"D:/GitHubby/Verticle/VerticleGJ/VerticalGJ/Content/Jamie/NoEyeLady_Level.umap",
+				"D:/GitHubby/Verticle/VerticleGJ/VerticalGJ/Content/Jamie/ROKModel_Material_005_BaseColor.uasset",
+				"D:/GitHubby/Verticle/VerticleGJ/VerticalGJ/Content/Jamie/NoEyeLandscape.umap"
+>>>>>>> JamieEyeLadyBranch
 			]
 		}
 	]
