@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Jacko/VerticleGJ/VerticalGJ/Content/Jacko/Mechanics/AI/Bp_MasterSpawner.uasset",
+				"D:/Jacko/VerticleGJ/VerticalGJ/Content/Jacko/Maps/RoomGenLevel.umap",
+				"D:/Jacko/VerticleGJ/VerticalGJ/Content/Jacko/Maps/PinHeadLadyLevel.umap",
+				"D:/Jacko/VerticleGJ/VerticalGJ/Content/Jacko/RoomGenerationSytem/RoomGeneration.uasset",
+				"D:/Jacko/VerticleGJ/VerticalGJ/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+				"D:/Jacko/VerticleGJ/VerticalGJ/Content/Jacko/Mechanics/AI/Enemies/Bp_BaseEnemy.uasset",
+				"D:/Jacko/VerticleGJ/VerticalGJ/Content/Jacko/RoomGenerationSytem/Bp_EndRoom.uasset",
 				"C:/Users/jacks/Documents/SoloGame/VerticleGJ/VerticalGJ/Content/Jacko/RoomGenerationSytem/Bp_Room_Parent.uasset",
 				"C:/Users/jacks/Documents/SoloGame/VerticleGJ/VerticalGJ/Content/Jacko/Mechanics/AI/Bp_AI_Spawning.uasset",
 				"C:/Users/jacks/Documents/SoloGame/VerticleGJ/VerticalGJ/Content/Jacko/RoomGenerationSytem/RoomGeneration.uasset",
