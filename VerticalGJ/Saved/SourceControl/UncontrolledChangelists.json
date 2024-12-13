@@ -13,7 +13,17 @@
 				"C:/Users/jacks/Documents/SoloGame/VerticleGJ/VerticalGJ/Content/Meg/BathtubMan/UMG_BathManBaseDialogue.uasset",
 				"C:/Users/jacks/Documents/SoloGame/VerticleGJ/VerticalGJ/Content/Meg/BathtubMan/BP_BathtubMan.uasset",
 				"C:/Users/jacks/Documents/SoloGame/VerticleGJ/VerticalGJ/Content/Jamie/Manager_Menu/BP_ManagerMenu.uasset",
-				"C:/Users/jacks/Documents/SoloGame/VerticleGJ/VerticalGJ/Content/Jamie/Menu_Level.umap"
+				"C:/Users/jacks/Documents/SoloGame/VerticleGJ/VerticalGJ/Content/Jamie/Menu_Level.umap",
+				"C:/Users/jacks/Documents/SoloGame/VerticleGJ/VerticalGJ/Content/Jacko/Mechanics/collectable/Bp_Collectable.uasset",
+				"C:/Users/jacks/Documents/SoloGame/VerticleGJ/VerticalGJ/Content/Jacko/Maps/PinHeadLadyLevel.umap",
+				"C:/Users/jacks/Documents/SoloGame/VerticleGJ/VerticalGJ/Content/Asset/Jacks_Models/Table.uasset",
+				"C:/Users/jacks/Documents/SoloGame/VerticleGJ/VerticalGJ/Content/Asset/Jacks_Models/bird_bowl_Cylinder.uasset",
+				"C:/Users/jacks/Documents/SoloGame/VerticleGJ/VerticalGJ/Content/Jacko/Mechanics/PinHeadSection/WBP_PinHeadLadyTalk.uasset",
+				"C:/Users/jacks/Documents/SoloGame/VerticleGJ/VerticalGJ/Content/Jacko/ROOMGENLevel/WBP_LoadForRoomGen.uasset",
+				"C:/Users/jacks/Documents/SoloGame/VerticleGJ/VerticalGJ/Content/Jacko/Mechanics/AI/Bp_MasterSpawner.uasset",
+				"C:/Users/jacks/Documents/SoloGame/VerticleGJ/VerticalGJ/Content/Jacko/ROOMGENLevel/RoomGenerationSytem/RoomGeneration.uasset",
+				"C:/Users/jacks/Documents/SoloGame/VerticleGJ/VerticalGJ/Content/Jacko/Maps/RoomGenLevel.umap",
+				"C:/Users/jacks/Documents/SoloGame/VerticleGJ/VerticalGJ/Content/Jacko/ROOMGENLevel/RoomGenerationSytem/Bp_EndRoom.uasset"
 			]
 		}
 	]
