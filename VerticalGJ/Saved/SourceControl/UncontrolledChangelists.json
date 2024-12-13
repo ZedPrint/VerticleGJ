@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/GitHubby/Verticle/VerticleGJ/VerticalGJ/Content/Jamie/NoEyeLady_Level.umap",
+				"D:/GitHubby/Verticle/VerticleGJ/VerticalGJ/Content/Jacko/Mechanics/PinHeadSection/WBP_LeaveGame.uasset",
+				"D:/GitHubby/Verticle/VerticleGJ/VerticalGJ/Content/Jamie/BP_GOAL.uasset",
+				"D:/GitHubby/Verticle/VerticleGJ/VerticalGJ/Content/Jamie/WBP_Menu.uasset",
+				"D:/GitHubby/Verticle/VerticleGJ/VerticalGJ/Content/Meg/BathtubManLevel.umap",
+				"D:/GitHubby/Verticle/VerticleGJ/VerticalGJ/Content/Meg/BathtubMan/BP_BathtubMan.uasset",
+				"D:/GitHubby/Verticle/VerticleGJ/VerticalGJ/Content/Meg/WBP_BTMInstructions.uasset",
 				"C:/Users/jacks/Documents/SoloGame/VerticleGJ/VerticalGJ/Content/Jacko/Mechanics/PinHeadSection/BP_PinHeadManager.uasset",
 				"C:/Users/jacks/Documents/SoloGame/VerticleGJ/VerticalGJ/Content/Jacko/Mechanics/PinHeadSection/WBP_LeaveGame.uasset",
 				"C:/Users/jacks/Documents/SoloGame/VerticleGJ/VerticalGJ/Content/Jamie/BP_GOAL.uasset",
